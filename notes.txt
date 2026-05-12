@@ -1,6 +1,0 @@
-Phase:
-    0 -> Vide
-    1 -> Eau liquide
-    2 -> Eau gazeuse (vapeur)
-    3 -> Frontière répulsive
-    4 -> Frontière constante
